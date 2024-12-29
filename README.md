@@ -56,7 +56,7 @@ No campo das redes, o problema pode ser usado para:
 
 ---
 
-## Implementação dos quatros algoritmos
+## Implementação dos quatro algoritmos
 
 ### **Força Bruta**
 
