@@ -12,7 +12,7 @@ Verificar se dois conjuntos não compartilham nenhum elemento. Caso compartilhem
 
 ## Descrição de Aplicabilidade Prática do Problema
 
-O **Problema de Conjuntos Disjuntos** tem uma ampla aplicabilidade em diversas áreas do conhecimento e aplicações práticas. Abaixo estão exemplos detalhados de como essa problemática pode ser utilizada:
+O **Problema de Conjuntos Disjuntos** tem uma ampla aplicabilidade em diversas áreas do conhecimento e aplicações práticas. Abaixo estão exemplos de como essa problemática pode ser utilizada:
 
 ### **1. Sistemas de Banco de Dados**
 
